@@ -1,2 +1,6 @@
 server:
   port: 9876
+
+spring:
+  profiles:
+    active: dev

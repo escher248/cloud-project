@@ -1,2 +1,6 @@
 server:
   port: 9877
+
+spring:
+  profiles:
+    active: dev

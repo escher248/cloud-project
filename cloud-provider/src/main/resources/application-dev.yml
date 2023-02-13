@@ -1,0 +1,5 @@
+spring:
+  datasource:
+    url: jdbc:mysql://119.91.140.33:13306/ry?useUnicode=true&characterEncoding=utf8&zeroDateTimeBehavior=convertToNull&useSSL=false
+    username: root
+    password: LiuJun@Escher1997
