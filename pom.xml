@@ -79,6 +79,7 @@
         <module>cloud-provider</module>
         <module>cloud-consumer</module>
         <module>cloud-crud</module>
+        <module>cloud-gateway</module>
     </modules>
 
     <build>

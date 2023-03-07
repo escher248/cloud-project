@@ -45,7 +45,7 @@ public class BizPropertySourcePostProcessor implements BeanFactoryPostProcessor,
 
     @Override
     public void afterPropertiesSet() throws Exception {
-
+        log.info("BladePropertySourcePostProcessor init.");
     }
 
     @Override
